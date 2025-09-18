@@ -1,0 +1,15 @@
+# Variables de entorno
+.env
+
+# Archivos de audio 
+/audio/*.mp3
+/audio/*.wav
+
+# Archivos compilados o caches de Python
+__pycache__/
+*.pyc
+*.pyo
+
+#Logs y temporales
+logs/
+tmp/
