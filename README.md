@@ -175,7 +175,7 @@ https://xxxx.ngrok.io/incoming
 - Compatible con **multisesión** → varias llamadas simultáneas.
 - Ideal para bots de atención telefónica, asistentes automáticos o pruebas de AI conversacional.
 
-**Estado del proyecto:**  
+**Estado del proyecto:
 El proyecto actualmente funciona, permitiendo recibir llamadas, transcribirlas y generar respuestas TTS, pero **la integración completa con todas las APIs necesarias aún está pendiente**.
 ---
 
