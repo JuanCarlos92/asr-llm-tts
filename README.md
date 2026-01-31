@@ -176,6 +176,7 @@ https://xxxx.ngrok.io/incoming
 - Ideal para bots de atención telefónica, asistentes automáticos o pruebas de AI conversacional.
 
 **Estado del proyecto:**
+
 El proyecto actualmente funciona, permitiendo recibir llamadas, transcribirlas y generar respuestas TTS, pero la integración completa con todas las APIs necesarias aún está pendiente.
 ---
 
